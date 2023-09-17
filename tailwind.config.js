@@ -9,7 +9,10 @@ module.exports = {
     extend: {
       fontFamily:{
         Lobster:['Lobster','cursive'],
-        IndieFamily:['Indie Flower', 'cursive']
+        IndieFamily:['Indie Flower', 'cursive'],
+        Yanone: ['Yanone Kaffeesatz', 'sans-serif'],
+        Kalam: ['Kalam', 'cursive'],
+        Courgette:[ 'Courgette', "cursive"],
       },
       screens:{
         xs:'320px',
